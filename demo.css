@@ -18,10 +18,11 @@ body{
 .header-content{
     background-color: #fcd463;
     width: 700px;
-    font-size: 25px;
+    font-size: 23px;
     opacity: 0.7;
     position: absolute;
-    margin-top: 220px;
+    margin-top: 230px;
+    letter-spacing: 3px;
 }
 .header-content > h2{
     margin: 10px 20px;
@@ -35,19 +36,14 @@ body{
     
 }   
 .main h3{
-    font-size: 35px;
+    font-size: 30px;
     margin: 20px 0px;
+    font-weight: lighter;
 }
-.box{
-    width: 500px;
-    height: 500px;
-}
+
 .box > img{
     width: 500px;
     display: block;
     border-top: 8px solid #fcd463;
     box-shadow: 1px 1px 5px gray;
-}
-h3{
-    margin: 0;
 }
