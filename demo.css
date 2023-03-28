@@ -148,9 +148,10 @@ background-color: #ddcccc;
 }
 .box-right1{
     display: flex;
+    width: 750px;
 }
 .box-right1 img{
-    width: 570px;
+    width: 750px;
     height: 300px;
     border-bottom: 200px solid black;
 }
@@ -160,7 +161,7 @@ background-color: #ddcccc;
     position: absolute;
     margin-top: 320px;
     margin-left: 10px;
-    width: 480px;
+    width: 700px;
 
 
 }
@@ -186,7 +187,7 @@ li img{
     background-color: black;
     color: white;
     font-size: 20px;
-    width: 560px;
+    width: 740px;
     height: 40px;
     align-items: center;
     display: flex;
@@ -197,5 +198,5 @@ ul{
     float: left;
     margin: 0;
     padding: 0;
-    width: 560px;
+    width: 740px;
 }
